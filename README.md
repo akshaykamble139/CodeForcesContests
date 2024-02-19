@@ -5,4 +5,4 @@
 3. https://codeforces.com/contest/1918
 4. https://codeforces.com/contest/1927
 5. https://codeforces.com/contest/1931
-6. 
+6. https://codeforces.com/contest/1932
